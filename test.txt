@@ -9,3 +9,4 @@ adding new text
 added new text here feature 1
 >>>>>>> feature1
 new addition
+addung text in newest branch:
