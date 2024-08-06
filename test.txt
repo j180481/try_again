@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-
-=======
 I have added text here in feature 1 branch.
 adding new text
-<<<<<<< HEAD
->>>>>>> feature1
-=======
+
 added new text here feature 1
->>>>>>> feature1
+
 new addition
 addung text in newest branch:
