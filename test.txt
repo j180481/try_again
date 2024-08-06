@@ -2,6 +2,13 @@ I have added text here in feature 1 branch.
 adding new text
 
 added new text here feature 1
+<<<<<<< HEAD
 
 new addition
 addung text in newest branch:
+=======
+>>>>>>> feature1
+multiply: return a * b
+return a * b
+difference
+>>>>>>> feature/multiply
