@@ -8,3 +8,6 @@ adding new text
 =======
 added new text here feature 1
 >>>>>>> feature1
+multiply: return a * b
+return a * b
+difference
